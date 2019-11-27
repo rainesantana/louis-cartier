@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="pt">
 
-<?php include_once "head.php"; ?>
+<?php require_once ("inc/head.php"); ?>
 
 <body>
-    <?php include_once "header.php"; ?>
+    <?php require_once ("inc/header.php"); ?>
 
     <div class="go-to-here"></div>
 
