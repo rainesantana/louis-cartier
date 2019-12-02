@@ -9,7 +9,7 @@
                 <div class="collapse navbar-collapse" id="nav">
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item active"><a href="index.php" class="nav-link" title="Home">Home</a></li>
-                        <li class="nav-item"><a href="colecao.php" class="nav-link" title="Coleção">Coleção</a></li>
+                        <li class="nav-item"><a href="catalogo.php" class="nav-link" title="Coleção">Coleção</a></li>
                         <li class="nav-item"><a href="sobre.php" class="nav-link" title="Sobre nós">Sobre nós</a></li>
                         <li class="nav-item"><a href="contato.php" class="nav-link" title="Contato">Contato</a></li>
                         <li class="nav-item"><a href="cadastro.php" class="nav-link" title="Cadastro">Cadastre-se</a></li>

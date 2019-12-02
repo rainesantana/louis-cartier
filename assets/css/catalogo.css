@@ -1,0 +1,26 @@
+/*container*/
+
+.container {
+    width: 100%;
+    padding-right: 17px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.card {
+    margin: 15px;
+}
+
+.card-footer{
+    background-color: rgba(136,133,133, .5);
+}
+/*Botões de compras*/
+
+ .btn, .btn-sm {
+    padding: .25rem .5rem;
+    font-size: .875rem;
+    line-height: 1.5;
+    border-radius: .2rem;
+    width: 100%;
+}
