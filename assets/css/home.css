@@ -309,7 +309,7 @@
 
 @media (max-width: 767.98px) {
     .img-featured {
-        height: 300px;
+        height: auto;
         margin-bottom: 40px;
     }
 }
@@ -625,12 +625,6 @@
 .section {
     padding: 3em 0;
     position: relative;
-}
-
-@media (max-width: 767.98px) {
-    .section {
-        padding: 6em 0;
-    }
 }
 
 @media (min-width: 768px) {

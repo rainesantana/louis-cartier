@@ -1,4 +1,4 @@
-<footer class="footer bg-light section">
+<footer class="footer bg-dark section">
         <div class="container">
             <div class="row mb-5">
                 <div class="col-md">
@@ -41,8 +41,8 @@
                 <div class="col-md">
                     <div class="footer-column mb-4">
                         <h2>Dúvidas?</h2>
-                        <div class="block-23 mb-3">
-                            <ul>
+                        <div class="duvidas mb-3">
+                            <ul class="pl-0">
                                 <li><i class="fa fa-map-pin mr-2"></i><span class="text">Av. Dr. Cardoso de Melo, 90 - Vila Olímpia, São Paulo - SP,</span></li>
                                 <li><a href="#"><i class="fa fa-whatsapp mr-2"></i><span class="text">(00) 00000-0000</span></a></li>
                                 <li><a href="#"><i class="fa fa-envelope mr-2"></i><span class="text">contato@louiuscartier.com.br</span></a></li>

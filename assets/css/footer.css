@@ -1,7 +1,7 @@
 .footer {
     font-size: 16px;
     padding: 7em 0;
-    color: #000000;
+    color: #fff;
 }
 
 .footer .footer-logo {
@@ -24,7 +24,7 @@
 }
 
 .footer .footer-column ul li a {
-    color: #000000;
+    color: #fff;
 }
 
 .footer .footer-column .btn-primary {
@@ -46,7 +46,7 @@
     width: 50px;
     display: block;
     float: left;
-    background-color: rgba(6, 19, 38, 0.9);
+    background-color: #fff;
     border-radius: 50%;
     position: relative;
 }
@@ -59,14 +59,18 @@
     -webkit-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-    color: #fff;
+    color: rgba(6, 19, 38);
 }
 
 .footer-social li a:hover i:before {
     color: #adacac;
 }
 
-.footer-column .block-23 i:before {
-    color: #061326;
+.footer-column .duvidas ul {
+    list-style: none;
+}
+
+.footer-column .duvidas i:before {
+    color: #fff;
     font-size: 18px;
 }
