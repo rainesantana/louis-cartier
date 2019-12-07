@@ -1,4 +1,9 @@
-@import url(header.css);
-@import url(footer.css);
-@import url(home.css);
-@import url(catalogo.css);
+/*Componentes*/
+
+@import url(componentes/header.css);
+@import url(componentes/footer.css);
+
+/*Páginas*/
+
+@import url(paginas/home.css);
+@import url(paginas/catalogo.css);

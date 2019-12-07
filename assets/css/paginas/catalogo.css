@@ -1,0 +1,61 @@
+/*container*/
+
+.container {
+    width: 100%;
+    padding-right: 17px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 20px;
+}
+
+.card {
+    margin: 15px;
+}
+
+.card-footer {
+    background-color: rgb(5, 17, 34);
+}
+
+
+/*Botões de compras*/
+
+.btn,
+.btn-sm {
+    padding: .25rem .5rem;
+    font-size: 1.800rem;
+    line-height: 1.5;
+    border-radius: .2rem;
+    width: 100%;
+    background-color: rgb(5, 17, 34);
+    border-color: rgb(5, 17, 34);
+}
+
+.card-group {
+    margin-bottom: 20px;
+}
+
+.produtos-catalogo .card-group .card {
+    overflow: hidden;
+}
+
+.produtos-catalogo .card-group .card img {
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    transform: scale(1);
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+.produtos-catalogo .card-group .card:hover img {
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    transform: scale(1.1);
+}
