@@ -1,17 +1,14 @@
-.botoes{
+.botoes-cadastro{
     text-align: center;
   }
   
-  .botoes-cadastro {
+  .botao{
     text-align: center;
-    width: 20%;
+    text-indent: 0%;
+    width: 19%;
   }
   
   .botoes-limpar{
     text-align: center;
-    width: 20%;
+    width: 18%;
   }
- 
-  
-
-
