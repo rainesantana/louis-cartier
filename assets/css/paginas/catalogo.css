@@ -20,8 +20,8 @@
 
 /*Botões de compras*/
 
-.btn,
-.btn-sm {
+.produtos-catalogo .btn,
+.produtos-catalogo .btn-sm {
     padding: .25rem .5rem;
     font-size: 1.800rem;
     line-height: 1.5;
