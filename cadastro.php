@@ -12,7 +12,7 @@
             <p>Seja um cliente Louis-cartier</p>
         </section>
 
-            <form class="mt-5" method="POST" action="" name="">
+            <form class="cadastroform" class="mt-5" method="POST" action="" name="">
                 <div class="row float-center">
                     <div class="col">
                         <label for="nomeCompleto" class="mt-3 text-dark">Nome:</label>

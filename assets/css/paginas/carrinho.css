@@ -1,0 +1,15 @@
+form {
+    position: relative;
+    /* top: -488px; */
+    /* right: -318px; */
+    display: block;
+    margin-top: 0em;
+    width: 800px;
+}
+
+.btn-primary{
+    color: #fff;
+    background-color: #1c2839;
+    border-color: #1c2839;
+    width: 100%;
+}
