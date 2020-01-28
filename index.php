@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="pt">
 
-<?php require_once ("inc/head.php"); ?>
+<?php require_once("inc/head.php"); ?>
 
 <body>
-    <?php require_once ("inc/header.php"); ?>
+    <?php require_once("inc/header.php"); ?>
 
     <div class="go-to-here"></div>
 

@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html lang="pt">
 
-<?php require_once ("inc/head.php"); ?>
+<?php require_once("inc/head.php"); ?>
 
 <body>
-    <?php require_once ("inc/header.php"); ?>
+    <?php require_once("inc/header.php"); ?>
 
       <div class="container">
-        <section class="mt-5 text-center text-dark">
+        <section class="mt-5 text-dark ">
             <h1>Cadastre-se</h1>
             <p>Seja um cliente Louis-cartier</p>
         </section>
 
-            <form class="cadastroform" class="mt-5" method="POST" action="" name="">
+            <form class="cadastroform mx-auto" class="mt-5" method="POST" action="" name="">
                 <div class="row float-center">
                     <div class="col-sm-6">
                         <label for="nomeCompleto" class="mt-3 text-dark">Nome:</label>
@@ -46,14 +46,10 @@
                     </div>
                 </div>
 
-                <div class="area-text mt-5 text-center">
-                    <label for="exampleFormControlTextarea3">Deixe aqui suas observações</label>
-                    <textarea class="form-control" id="exampleFormControlTextarea3" rows="6"></textarea>
-                </div>
 
                 <div class="botoes-cadastro mt-5 text-center">
                     <button type="submit" class="botao mt-4  btn btn-success">Cadastrar</button>
-                    <button  type="reset" class=" botoes-limpar mt-4  btn btn-primary ">Limpar</button>
+                    <button  type="reset" class=" botoes-limpar mt-4  btn btn-secondary">Limpar</button>
                 </div>
        
             </form>
